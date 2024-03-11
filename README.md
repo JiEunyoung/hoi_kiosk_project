@@ -1,5 +1,7 @@
 # Connect_Kiosk(호이카페)
-<img src="https://github.com/JiEunyoung/hoi_kiosk_project/assets/137987981/d6104ff7-ce06-4e57-b694-fe23f8fb321c"/>
+<p align="center">
+    <img src="https://github.com/JiEunyoung/hoi_kiosk_project/assets/137987981/d6104ff7-ce06-4e57-b694-fe23f8fb321c"/>   
+</p>
 >전 연령층이 쉽게 이용할 수 있는 호이카페 키오스크
 
 ## 💻 프로젝트 소개
