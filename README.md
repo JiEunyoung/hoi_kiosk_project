@@ -53,7 +53,7 @@ etc. <br>
 
 
 ## 📌 실행 화면
-| <img src="[https://github.com/JiEunyoung/hoi_kiosk_project/assets/137987981/28447a6b-830d-410d-97ae-38d876acf5db](https://github.com/JiEunyoung/hoi_kiosk_project/assets/137987981/38a5aa19-e464-4948-bb7b-a43079fbac6e)"/> | <img src="[https://github.com/JiEunyoung/hoi_kiosk_project/assets/137987981/e556f60b-da9b-457d-869d-122a2bd02460](https://github.com/JiEunyoung/hoi_kiosk_project/assets/137987981/3332b983-4e29-4006-bbea-640340664775)"/> | <img src="[https://github.com/JiEunyoung/hoi_kiosk_project/assets/137987981/e505c02a-26fa-4dfd-b87a-e4e8d33b2144](https://github.com/JiEunyoung/hoi_kiosk_project/assets/137987981/e9a019c1-242f-47a5-b64a-337b2d4c779b)"/> |
+| <img src="https://github.com/JiEunyoung/hoi_kiosk_project/assets/137987981/38a5aa19-e464-4948-bb7b-a43079fbac6e"/> | <img src="https://github.com/JiEunyoung/hoi_kiosk_project/assets/137987981/3332b983-4e29-4006-bbea-640340664775"/> | <img src="https://github.com/JiEunyoung/hoi_kiosk_project/assets/137987981/e9a019c1-242f-47a5-b64a-337b2d4c779b"/> |
 | ---------------- | ---------------- | ---------------- |
 | 설명 1            | 설명 2            | 설명 3            |
 
