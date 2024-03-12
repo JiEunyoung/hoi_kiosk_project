@@ -42,7 +42,7 @@ Backend <br>
 
 DB <br>
 
-<img src="https://img.shields.io/badge/mysql 8.0.35-4479A1?style=for-the-badge&logo=mysql 8.0.35&logoColor=white">
+<img src="https://img.shields.io/badge/mysql 8.0.35-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
 etc. <br>
 
