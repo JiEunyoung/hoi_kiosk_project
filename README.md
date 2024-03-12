@@ -19,6 +19,7 @@
 🔻**사용자 불안요소** 제거: `확인 및 안내 메시지`    
 
 
+
 ## 📆 개발 기간
 2023.03. ~ 2023.10.
 
@@ -32,6 +33,7 @@
 
 
 -전찬영(팀원): DB 연동, 백 개발
+
 
 
 ## ⚙️ 기술 스택 및 개발 환경
@@ -50,6 +52,7 @@ DB <br>
 etc. <br>
 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio Code  1.75.1-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> 
+
 
 
 ## 📌 실행 화면
