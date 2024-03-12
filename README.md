@@ -57,15 +57,15 @@ etc. <br>
 | ---------------- | ---------------- | ---------------- |
 | 설명 1            | 설명 2            | 설명 3            |
 
-| 이미지4 | 이미지5 | 이미지6 |
+| <img src="https://github.com/JiEunyoung/hoi_kiosk_project/assets/137987981/853cd953-a0e9-485d-bebf-6bfbf9f9c37f"/> | <img src="https://github.com/JiEunyoung/hoi_kiosk_project/assets/137987981/e6164614-0946-4d19-8d65-1eed6cc6379d"/> | <img src="https://github.com/JiEunyoung/hoi_kiosk_project/assets/137987981/bd6f8291-1f5a-48de-9753-425135ffb761"/> |
 | ---------------- | ---------------- | ---------------- |
 | 설명 4            | 설명 5            | 설명 6            |
 
-| 이미지1 | 이미지2 | 이미지3 |
+| <img src="https://github.com/JiEunyoung/hoi_kiosk_project/assets/137987981/f39046c0-fd89-4de5-8f5d-1662c3093adb"/> | <img src="https://github.com/JiEunyoung/hoi_kiosk_project/assets/137987981/5e7d44a7-8514-402c-9ccc-60ff5335ed53"/> | <img src="https://github.com/JiEunyoung/hoi_kiosk_project/assets/137987981/dd9d7f48-6960-4caf-a478-ab6998602dcb"/> |
 | ---------------- | ---------------- | ---------------- |
 | 설명 1            | 설명 2            | 설명 3            |
 
-| 이미지4 | 이미지5 | 이미지6 |
+| <img src="https://github.com/JiEunyoung/hoi_kiosk_project/assets/137987981/5162f2a9-c8f1-4db8-8fe8-215fb65d8f2b"/> | <img src="https://github.com/JiEunyoung/hoi_kiosk_project/assets/137987981/c02a766d-c3b8-4b1f-858b-1d17bd7d2eeb"/> | <img src="https://github.com/JiEunyoung/hoi_kiosk_project/assets/137987981/f3528a43-9179-4fe0-907b-cc607a2c7d01"/> |
 | ---------------- | ---------------- | ---------------- |
 | 설명 4            | 설명 5            | 설명 6            |
 
