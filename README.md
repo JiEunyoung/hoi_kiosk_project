@@ -55,17 +55,17 @@ etc. <br>
 ## 📌 실행 화면
 | <img src="https://github.com/JiEunyoung/hoi_kiosk_project/assets/137987981/38a5aa19-e464-4948-bb7b-a43079fbac6e"/> | <img src="https://github.com/JiEunyoung/hoi_kiosk_project/assets/137987981/3332b983-4e29-4006-bbea-640340664775"/> | <img src="https://github.com/JiEunyoung/hoi_kiosk_project/assets/137987981/e9a019c1-242f-47a5-b64a-337b2d4c779b"/> |
 | :----------------: | :----------------: | :----------------: |
-|[주문 방식 선택 화면] <br>천천히 주문하기(주문 제한 시간 5분 30초) <br>기본 주문하기(주문 제한 시간 2분 30초)| 설명 2            | 설명 3            |
+|**[주문 방식 선택 화면]** <br>천천히 주문하기(주문 제한 시간 5분 30초) <br>기본 주문하기(주문 제한 시간 2분 30초)|**[영어 버전 주문 방식 선택 화면]**|**[주문 방식 선택 화면]** <br>아이콘 및 색 사용하여 직관성 향상<br>외래어 대신 한국어로 표현|
 
 | <img src="https://github.com/JiEunyoung/hoi_kiosk_project/assets/137987981/853cd953-a0e9-485d-bebf-6bfbf9f9c37f"/> | <img src="https://github.com/JiEunyoung/hoi_kiosk_project/assets/137987981/e6164614-0946-4d19-8d65-1eed6cc6379d"/> | <img src="https://github.com/JiEunyoung/hoi_kiosk_project/assets/137987981/bd6f8291-1f5a-48de-9753-425135ffb761"/> |
 | :----------------: | :----------------: | :----------------: |
-| 설명 4            | 설명 5            | 설명 6            |
+|**[천천히 주문하기 화면]** <br>뜨거운 메뉴->빨간색으로 표시<br>차가운 메뉴->파란색으로 표시|**[기본 주문하기 화면]** <br>뜨거운 메뉴->빨간색으로 표시<br>차가운 메뉴->파란색으로 표시|**[메뉴 검색 화면]**|
 
 | <img src="https://github.com/JiEunyoung/hoi_kiosk_project/assets/137987981/f39046c0-fd89-4de5-8f5d-1662c3093adb"/> | <img src="https://github.com/JiEunyoung/hoi_kiosk_project/assets/137987981/5e7d44a7-8514-402c-9ccc-60ff5335ed53"/> | <img src="https://github.com/JiEunyoung/hoi_kiosk_project/assets/137987981/dd9d7f48-6960-4caf-a478-ab6998602dcb"/> |
 | :----------------: | :----------------: | :----------------: |
-| 설명 1            | 설명 2            | 설명 3            |
+|**[도움말 화면]**<br>각 화면마다 위치<br>설명 영상 또는 글로 확인 가능|**[최종 주문 목록 확인 화면]**|**[결제 방식 선택 화면]**|
 
 | <img src="https://github.com/JiEunyoung/hoi_kiosk_project/assets/137987981/5162f2a9-c8f1-4db8-8fe8-215fb65d8f2b"/> | <img src="https://github.com/JiEunyoung/hoi_kiosk_project/assets/137987981/c02a766d-c3b8-4b1f-858b-1d17bd7d2eeb"/> | <img src="https://github.com/JiEunyoung/hoi_kiosk_project/assets/137987981/f3528a43-9179-4fe0-907b-cc607a2c7d01"/> |
 | :----------------: | :----------------: | :----------------: |
-| 설명 4            | 설명 5            | 설명 6            |
+|**[카드 결제 화면]** <br>gif를 통해 결제 행동 유도|**[주문 완료 화면]**|**[확인 및 안내 메시지]**|
 
