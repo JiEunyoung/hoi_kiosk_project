@@ -53,7 +53,7 @@ etc. <br>
 
 
 ## 📌 실행 화면
-| 이미지1 | 이미지2 | 이미지3 |
+| <img src="https://github.com/JiEunyoung/hoi_kiosk_project/assets/137987981/28447a6b-830d-410d-97ae-38d876acf5db"/> | <img src="https://github.com/JiEunyoung/hoi_kiosk_project/assets/137987981/e556f60b-da9b-457d-869d-122a2bd02460"/> | <img src="https://github.com/JiEunyoung/hoi_kiosk_project/assets/137987981/e505c02a-26fa-4dfd-b87a-e4e8d33b2144"/> |
 | ---------------- | ---------------- | ---------------- |
 | 설명 1            | 설명 2            | 설명 3            |
 
