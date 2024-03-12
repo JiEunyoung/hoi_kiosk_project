@@ -1,4 +1,4 @@
-# Connect_Kiosk(호이카페)
+# Connect_Kiosk(호이카페 키오스크)
 <p align="center">
     <img src="https://github.com/JiEunyoung/hoi_kiosk_project/assets/137987981/655bb8db-be8b-4ad9-9854-dfe7d164f41d" width="120px"/>
     <img src="https://github.com/JiEunyoung/hoi_kiosk_project/assets/137987981/d6104ff7-ce06-4e57-b694-fe23f8fb321c"/>   
